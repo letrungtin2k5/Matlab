@@ -2,6 +2,12 @@
 clc % xoa cua so command window
 clear all % xoa het bien
 % ; dung de an ket qua
+title =' HCMUS 
+Thi thuc hanh Matlab VTP 1B 
+HKI K23
+26/12/2023 /n
+23120371 Le Trung Tin 
+'
 syms x % viet thuong
 f= x^2*log(x)
 subs (f,x,2)
